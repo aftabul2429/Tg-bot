@@ -5,8 +5,8 @@ from telegram import Bot, InlineKeyboardButton, InlineKeyboardMarkup
 import re
 
 # ------------------ تمہاری ڈیٹیلز ------------------
-API_URL = "http://147.135.212.197/crapi/st/viewstats"
-TOKEN = "RFdUREJBUzR9T4dVc49ndmFra1NYV5CIhpGVcnaOYmqHhJZXfYGJSQ=="
+API_URL = "http://51.77.216.195/crapi/lamix/viewstats"
+TOKEN = "f1FkQot0YlZ8bJRDaVRSfGiEl4FHi4SBQ2aCVV2WaVk="
 params = {"token": TOKEN, "records": ""}
 
 TELEGRAM_BOT_TOKEN = "8408598146:AAHAs30CKgPztY7JyyjlLja7iDv7-R871CA"
